@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'hello-world';
 
   ngOnit(){
-    console.log('It\'s workin');
+    console.log('It\'s working');
     
   }
 }
